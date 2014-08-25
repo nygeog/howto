@@ -17,6 +17,7 @@ C:\Users\.......<USERID>......\AppData\Roaming\Sublime Text 2\Packages\Python
 		"selector": "source.python"
 		}
 
+Full documentation at [StackOverflow - How do I run Python code from Sublime Text 2?](http://stackoverflow.com/questions/8551735/how-do-i-run-python-code-from-sublime-text-2)
 
 ###Mac - Python to run with Sublime Text 2
 fill in next time installing Sublime Text 2 on Mac OS. 
