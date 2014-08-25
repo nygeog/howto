@@ -16,3 +16,7 @@ C:\Users\.......<USERID>......\AppData\Roaming\Sublime Text 2\Packages\Python
 		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 		"selector": "source.python"
 		}
+
+
+###Mac - Python to run with Sublime Text 2
+fill in next time installing Sublime Text 2 on Mac OS. 
