@@ -1,12 +1,8 @@
-howto
-=====
+#How to get some stuff to work
 
-How to do some stuff
-  
+##Get Python to Run with Sublime Text 2
 
-#Get Python to Run with Sublime Text 2
-
-##Windows - Python to run with Sublime Text 2
+###Windows - Python to run with Sublime Text 2
 [Allow to view Hidden Folders in Windows like this] (http://www.blogtechnika.com/what-is-application-data-folder-in-windows-7/)
 
 Go to Here:
