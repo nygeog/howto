@@ -37,3 +37,18 @@ Full documentation at [StackOverflow - How do I run Python code from Sublime Tex
 
 ###Mac - Python to run with Sublime Text 2
 fill in next time installing Sublime Text 2 on Mac OS. 
+
+
+
+##Change Scriptogram Cover Image
+[Blog Post with Instructions](http://adjb.co/post/scriptogram-cover-image)
+
+	if your cover image fails to upload that is ok. you can use your dropbox public folder, or another image hosting service to post it.
+
+	If you need help on how to use dropbox to host an image see: Add Images in Scriptogr.am
+
+	upload file to your dropbox folder or other image host
+	copy the full file url and make sure that it ends in .jpg, .png, or .gif ideally you want a http:// link and not an https:// link -- it helps if your image is already sized to 960x960 pixels
+	go to http://scriptogr.am/dashboard/#tools
+	go to HTML editor
+	replace: {{cover_image}} with your image url which for me was: http://dl.dropboxusercontent.com/u/676381/cover_image.jpg
