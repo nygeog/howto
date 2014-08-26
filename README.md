@@ -1,5 +1,21 @@
 #How to get some stuff to work
 
+
+##GDAL/OGR
+
+###File Geodatabase
+
+Get detailed info for FileGDB:
+	
+	ogrinfo -al "\Users\danielmsheehan\Desktop\tripData2013\taxi_201301.gdb"
+or is it?
+
+	ogrinfo -al /Users/danielmsheehan/Desktop/tripData2013/taxi_201301.gdb
+
+
+
+
+
 ##Get Python to Run with Sublime Text 2
 
 ###Windows - Python to run with Sublime Text 2
