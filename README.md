@@ -7,13 +7,17 @@
 
 Get detailed info for FileGDB:
 	
-	ogrinfo -al "\Users\danielmsheehan\Desktop\tripData2013\taxi_201301.gdb"
-or is it?
+	
+####In OSGeo4W Shell (for Windows)
+#####File Geodatabase to Shapefile
 
-	ogrinfo -al /Users/danielmsheehan/Desktop/tripData2013/taxi_201301.gdb
+	ogr2ogr -overwrite -f "ESRI Shapefile" "W:\GIS\Data\Census\census_2010\tracts\test.shp" "W:\GIS\Data\Census\census_2010\tracts\census.gdb" "tracts_2010"
 
+#####File Geodatabase to CSV
 
+	ogr2ogr -overwrite -f CSV "W:\GIS\Data\Census\census_2010\tracts\testCSV.csv" "W:\GIS\Data\Census\census_2010\tracts\census.gdb" "tracts_2010"
 
+####In Python Shell for QGIS (for Windows)
 
 
 ##Get Python to Run with Sublime Text 2
