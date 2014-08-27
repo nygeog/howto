@@ -9,10 +9,6 @@ Get detailed info for FileGDB:
 	
 	
 ####In OSGeo4W Shell (for Windows)
-[http://gis.stackexchange.com/questions/26285/file-geodatabase-gdb-support-in-qgis](http://gis.stackexchange.com/questions/26285/file-geodatabase-gdb-support-in-qgis)
-
-[http://trac.osgeo.org/osgeo4w/](http://trac.osgeo.org/osgeo4w/
-)
 #####File Geodatabase to Shapefile
 
 	ogr2ogr -overwrite -f "ESRI Shapefile" "W:\GIS\Data\Census\census_2010\tracts\test.shp" "W:\GIS\Data\Census\census_2010\tracts\census.gdb" "tracts_2010"
